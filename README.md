@@ -77,13 +77,18 @@ The fastest option is Packr
 
 ```
 
+Metrology report 100 measurements, original size 0.50 MiB
+
 ![](./img/050-medc.png)
 
+Metrology report 300 measurements, original size 1.50 MiB
 
 ![](./img/150-medc.png)
 
+Metrology report 900 measurements, original size 4.51 MiB
 
 ![](./img/451-medc.png)
 
+Metrology report 2700 measurements, original size 13.51 MiB
 
 ![](./img/1351-medc.png)
